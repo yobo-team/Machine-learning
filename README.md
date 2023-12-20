@@ -8,5 +8,6 @@ ML TEAM with:
 - novitsptr
 - dwiindahh
 
-    if you want to access the pickle file. click the link: 👇🏿
-    https://drive.google.com/drive/folders/15WqnlXQchanrUHg7TjjdUcjcu_KEHVOU?usp=drive_link
+If you want to access the pickle file. click the link 👇🏿
+
+https://drive.google.com/drive/folders/15WqnlXQchanrUHg7TjjdUcjcu_KEHVOU?usp=drive_link
